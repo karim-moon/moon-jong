@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning and interested in machinelearning & deeplearning
-- 📫 How to reach me: dksjfl@naver.com
+- 📫 How to reach me: <a href="dksjfl@naver.com">my email</a>
 
 <!--
 **moon-jong/moon-jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
