@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning and interested in machinelearning & deeplearning
+- 🌱 I’m currently learning and interested in machinelearning & deeplearning especially computervision
 - 📫 How to reach me: <a href="dksjfl@naver.com">my email</a>
 
 <!--
