@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning and interested in machinelearning & deeplearning especially computervision
 - 📫 How to reach me: <a href="dksjfl@naver.com">dksjfl@naver.com</a>
+- now at naver boostcamp AItech!🔥 (~ 2021.6.25)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://moon-jong.github.io/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonjongs0@gmail.com)](mailto:moonjongs0@gmail.com)
