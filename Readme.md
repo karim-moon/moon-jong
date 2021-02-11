@@ -3,6 +3,8 @@
 - 📫 How to reach me: <a href="dksjfl@naver.com">dksjfl@naver.com</a>
 - now at naver boostcamp AItech!🔥 (~ 2021.6.25)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-jong&show_icons=true)
+
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://moon-jong.github.io/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonjongs0@gmail.com)](mailto:moonjongs0@gmail.com)
 
