@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning and interested in machinelearning & deeplearning especially computervision
+- 🌱 I’m currently learning deeplearning and interested in the model, which can see, hear and speak 🔥
 - 📫 How to reach me: <a href="dksjfl@naver.com">dksjfl@naver.com</a>
 - now at naver boostcamp AItech!🔥 (~ 2021.6.25)
 
