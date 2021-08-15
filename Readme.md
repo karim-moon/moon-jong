@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning deeplearning and interested in the model, which can see, hear and speak 🔥
 - 📫 How to reach me: <a href="dksjfl@naver.com">dksjfl@naver.com</a>
-- now at naver boostcamp AItech!🔥 (~ 2021.6.25)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon-jong&show_icons=true)
 
